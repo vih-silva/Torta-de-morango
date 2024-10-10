@@ -17,3 +17,6 @@ header{
     .chamada-texto{
     padding-right : 6em;
     }
+    .categoria-videos{
+        display: flex;
+        overflow-x: auto;
